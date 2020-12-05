@@ -1,10 +1,15 @@
 ## Hi there 👋,  I am Shaurya
 
-I program mainly using [Ru](https://rust-lang.org)[st](https://play.rust-lang.org).
+I mainly program in [Rust](https://rust-lang.org). 
 
 ```rust
 trait Person {
+    const NAME: &str;
 }
 
 struct Shaurya;
+
+impl Person for Shaurya {
+    const NAME: &str = "Shaurya";
+}
 ```
