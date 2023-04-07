@@ -1,3 +1,6 @@
-## Hi there 👋,  I am Shaurya
+I have decided to switch to Sourcehut.
 
-I mainly program in [Rust](https://rust-lang.org). 
+You can find my code at:
+
+* https://git.sr.ht/~coolshaurya
+* https://hg.sr.ht/~coolshaurya
